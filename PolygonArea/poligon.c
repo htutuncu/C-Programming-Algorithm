@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-// get_corners fonksiyonu ödevde istenilen şekilde tanımlandı.
 // girdi dosyasını parametre olarak alarak yine parametre olarak alınan X ve Y dizilerini doldurur.
 // toplam kac köşe olduğunu return eder.
 int get_corners(FILE* girdi,double X[],double Y[],int maksimum_sayi){
