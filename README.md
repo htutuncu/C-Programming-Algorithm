@@ -9,7 +9,7 @@ tion that returns a value of 1 if its string argument is a palindrome. Notice th
 palindromes such as level, deed, sees, and Madam I’m Adam (madamimadam),
 the first letter matches the last, the second matches the next-to-last, and so on.
 
-# 3 - Recursive Function
+# Recursive Function
 
 Write and test a recursive function that returns the value of the following
 recursive definition:
