@@ -54,3 +54,9 @@ test a function that implements this sorting method.
 Write and test a function deblank that takes a string output and a string
 input argument and returns a copy of the input argument with all blanks
 removed.
+
+# fact
+fact_calc program calculates the factorial and prints all the numbers and results.
+For
+example, if the value supplied for n were 6, the string returned would be
+“6! = 6 x 5 x 4 x 3 x 2 x 1 = 720”. 
