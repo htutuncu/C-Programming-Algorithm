@@ -74,3 +74,9 @@ line. For example,
 Input: birds and bees
 Reversed: bees and birds
 The data should have one blank between each pair of words.
+
+# Suffix
+A function that finds and returns through an output parameter
+the longest common suffix of two words (e.g., the longest common suffix of
+“procrastination” and “destination” is “stination”, of “globally” and “internally”
+is “ally”, and of “gloves” and “dove” is the empty string).
