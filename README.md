@@ -67,3 +67,10 @@ these rules:
 If noun ends in “y”, remove the “y” and add “ies”.
 If noun ends in “s”, “ch”, or “sh”, add “es”.
 In all other cases, just add “s”.
+
+# Reverse
+A program that takes data a line at a time and reverses the words of the
+line. For example,
+Input: birds and bees
+Reversed: bees and birds
+The data should have one blank between each pair of words.
