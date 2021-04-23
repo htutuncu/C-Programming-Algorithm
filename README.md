@@ -64,8 +64,6 @@ example, if the value supplied for n were 6, the string returned would be
 # Plural
 A program that takes nouns and forms their plurals on the basis of
 these rules:
-a.
 If noun ends in “y”, remove the “y” and add “ies”.
-b. If noun ends in “s”, “ch”, or “sh”, add “es”.
-c.
+If noun ends in “s”, “ch”, or “sh”, add “es”.
 In all other cases, just add “s”.
