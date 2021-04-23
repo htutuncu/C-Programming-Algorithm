@@ -26,3 +26,8 @@ Normalized vector algorithm. Chapter-7 Programming Projects 7
 # Polygon Area
 Calculating polygon area.
 Chapter 7 Programming Projects 2
+
+# Hangman Game
+An interactive program that plays a game of hangman. Store the word to
+be guessed in successive elements of an array of individual characters called
+word. 
