@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int Palindrom(char arr[], int i, int j){
+int Palindrome(char arr[], int i, int j){
     if (i > j) 
         return 1;
     
@@ -10,7 +10,7 @@ int Palindrom(char arr[], int i, int j){
         return 0;
     
 
-    return (Palindrom(arr, i + 1, j - 1));
+    return (Palindrome(arr, i + 1, j - 1));
 }
 
 int main(){
