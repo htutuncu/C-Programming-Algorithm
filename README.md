@@ -22,3 +22,6 @@ Selection sort algorithm.
 
 # Vector
 Normalized vector algorithm. Chapter-7 Programming Projects 7
+
+# Polygon Area
+Chapter 7 Programming Projects 2
