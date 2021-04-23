@@ -1,2 +1,2 @@
 # C-Programming-Algorithm
-Problem Solving and Program Design in C - Hanly & Koffman Programming Projects
+# Problem Solving and Program Design in C - Hanly & Koffman Programming Projects
