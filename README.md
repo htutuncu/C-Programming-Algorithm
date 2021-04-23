@@ -31,3 +31,11 @@ Chapter 7 Programming Projects 2
 An interactive program that plays a game of hangman. Store the word to
 be guessed in successive elements of an array of individual characters called
 word. 
+
+# Merge Arrays
+A function that will merge the contents of two sorted (ascending order)
+arrays of type double values, storing the result in an array output parameter
+(still in ascending order). The function should not assume that both its input
+parameter arrays are the same length but can assume that one array does not
+contain two copies of the same value. The result array should also contain no
+duplicate values.
