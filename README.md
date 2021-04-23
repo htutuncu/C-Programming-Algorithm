@@ -39,3 +39,13 @@ arrays of type double values, storing the result in an array output parameter
 parameter arrays are the same length but can assume that one array does not
 contain two copies of the same value. The result array should also contain no
 duplicate values.
+
+# Bubble Sort
+The bubble sort is another technique for sorting an array. A bubble sort com-
+pares adjacent array elements and exchanges their values if they are out of
+order. In this way, the smaller values “bubble” to the top of the array (toward
+element 0), while the larger values sink to the bottom of the array. After the
+first pass of a bubble sort, the last array element is in the correct position; after
+the second pass the last two elements are correct, and so on. Thus, after each
+pass, the unsorted portion of the array contains one less element. Write and
+test a function that implements this sorting method.
