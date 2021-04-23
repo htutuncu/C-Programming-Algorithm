@@ -49,3 +49,8 @@ first pass of a bubble sort, the last array element is in the correct position; 
 the second pass the last two elements are correct, and so on. Thus, after each
 pass, the unsorted portion of the array contains one less element. Write and
 test a function that implements this sorting method.
+
+# deblank
+Write and test a function deblank that takes a string output and a string
+input argument and returns a copy of the input argument with all blanks
+removed.
