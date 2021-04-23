@@ -2,7 +2,7 @@
 # Problem Solving and Program Design in C - Hanly & Koffman Programming Projects
 
 
-# 2 - Palindrome 
+# Palindrome 
 A palindrome consists of a word or deblanked, unpunctuated phrase that is
 spelled exactly the same when the letters are reversed. Write a recursive func-
 tion that returns a value of 1 if its string argument is a palindrome. Notice that in
